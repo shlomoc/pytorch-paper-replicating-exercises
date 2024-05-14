@@ -29,7 +29,7 @@ The data are images derived from the Food101 dataset.
 Replicate the machine learning research paper [*An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*](https://arxiv.org/abs/2010.11929)  (ViT paper) with PyTorch.
 
 ## 6. Deployment
-Create a FoodVision Gradio App using a pre-trained ViT model from torchvision and deployed it on Hugging Face.  I followed the steps in the class notebook, except deployed the VIT model instead of the EffNetB2 model he used. You can see a live running example of it here: https://huggingface.co/spaces/shlomoc/foodvision_mini_vit
+I created a FoodVision Gradio App using a pre-trained ViT model from torchvision and deployed it on Hugging Face.  I followed the steps in the class notebook, except deployed the VIT model instead of the EffNetB2 model he used. You can see a live running example of it here: https://huggingface.co/spaces/shlomoc/foodvision_mini_vit
 
     see 09_pytorch_model_deployment.ipynb
 

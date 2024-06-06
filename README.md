@@ -1,7 +1,7 @@
 # pytorch-paper-replicating-exercises
 These are the exercises from the project **replicating a machine learning research paper** and creating a Vision Transformer (ViT) from scratch using PyTorch [https://github.com/mrdbourke/pytorch-deep-learning/blob/main/08_pytorch_paper_replicating.ipynb]
 
-This is one of the main projects in the course  "Zero to Mastery Learn PyTorch for Deep Learning"[https://www.learnpytorch.io/].
+This is one of the main projects in Daniel Bourke's course  "Zero to Mastery Learn PyTorch for Deep Learning"[https://www.learnpytorch.io/].
 We'll see how ViT, a state-of-the-art computer vision architecture, performs on a FoodVision Mini problem.
 
 The purpose is to implement the machine learning research paper [*An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*](https://arxiv.org/abs/2010.11929)  (ViT paper) with PyTorch.
